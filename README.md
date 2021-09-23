@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Software developer
+## Full-Stack developer
 
 - 🔭 I’m currently working on project built with vaires tech like .NET(4.7,5,Core) and Angular
 - 🌱 I’m currently learning Database enginnering
