@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Senior Full-Stack Software Engineer</strong><br/>
   .NET · C# · Angular · React · Microsoft Azure<br/>
-  📍 Gdańsk, Poland &nbsp;|&nbsp; 📧 <a href="mailto:Mahmoud.faragallah@outlook.com">Mahmoud.faragallah@outlook.com</a> &nbsp;|&nbsp; 🔗 <a href="https://linkedin.com/in/mahmoud-faragallah">LinkedIn</a>
+  📍Poland &nbsp;|&nbsp; 📧 <a href="mailto:Mahmoud.faragallah@outlook.com">Mahmoud.faragallah@outlook.com</a> &nbsp;|&nbsp; 🔗 <a href="https://linkedin.com/in/mahmoud-faragallah">LinkedIn</a>
 </p>
 
 ---
