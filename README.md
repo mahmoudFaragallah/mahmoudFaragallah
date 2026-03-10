@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Software Engineer with **7 years of experience** delivering enterprise-grade applications across the **energy, healthcare, and financial services** industries.
+I'm a Full-Stack Software Engineer with **6 years of experience** delivering enterprise-grade applications across the **energy, healthcare, and financial services** industries.
 
 I specialise in building clean, testable back-end services with **.NET/C#** and crafting seamless front-end experiences with **Angular** and **React** — all deployed on **Microsoft Azure**. I care about code quality, thorough testing, and shipping things that actually move the needle for the business.
 
