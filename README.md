@@ -30,7 +30,7 @@ I build cloud-native backend systems and modern frontends for enterprise clients
 
 ## 💼 Experience Highlights
 
-### EPAM Systems — Senior Software Engineer *(Mar 2023 – Present)*
+### EPAM Systems — Software Engineer *(Mar 2023 – Present)*
 Working across multiple enterprise engagements in energy, healthcare, and financial data:
 
 - 🔧 Designed cloud-native **microservices in .NET 8** for a large-scale UK retail energy SaaS platform — improving billing reliability and feature delivery speed
